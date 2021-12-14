@@ -105,7 +105,7 @@ enable = false
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
-	name = "Stack Overflow"
+	name = "Instagram"
 	url = "https://www.instagram.com/xbox/"
 	icon = "fab fa-instagram"
         desc = "Follow us on Instagram"
