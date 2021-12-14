@@ -1,4 +1,4 @@
-baseURL = "xantra-bp.com"
+baseURL = "/"
 title = "Xantra"
 
 enableRobotsTXT = true
