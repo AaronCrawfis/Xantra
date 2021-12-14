@@ -1,0 +1,23 @@
+{
+  "name": "xantra",
+  "version": "0.0.1",
+  "description": "Site for Xantra",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronCrawfis/Xantra.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/AaronCrawfis/Xantra/issues"
+  },
+  "homepage": "https://xantra-bp.com",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss-cli": "^8.3.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0"
+  }
+}
